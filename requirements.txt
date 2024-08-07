@@ -1,0 +1,55 @@
+ace_tools==0.0
+asttokens==2.2.1
+backcall==0.2.0
+beautifulsoup4==4.12.3
+bs4==0.0.2
+certifi==2024.7.4
+charset-normalizer==3.3.2
+click==8.1.7
+colorama==0.4.6
+comm==0.1.2
+debugpy==1.6.5
+decorator==5.1.1
+entrypoints==0.4
+et-xmlfile==1.1.0
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1720869315914/work
+executing==1.2.0
+idna==3.7
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1721856510709/work
+ipykernel==6.19.4
+ipython==8.8.0
+jedi==0.18.2
+joblib==1.4.2
+jupyter_client==7.4.8
+jupyter_core==5.1.2
+matplotlib-inline==0.1.6
+nest-asyncio==1.5.6
+nltk==3.8.1
+numpy==2.0.1
+openpyxl==3.1.5
+packaging==22.0
+pandas==2.2.2
+parso==0.8.3
+pickleshare==0.7.5
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1715777629804/work
+prompt-toolkit==3.0.36
+psutil==5.9.4
+pure-eval==0.2.2
+Pygments==2.14.0
+python-dateutil==2.8.2
+pytz==2024.1
+pywin32==305
+pyzmq==24.0.1
+regex==2024.7.24
+requests==2.32.3
+six==1.16.0
+soupsieve==2.5
+stack-data==0.6.2
+tornado==6.2
+tqdm==4.66.4
+traitlets==5.8.0
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
+tzdata==2024.1
+urllib3==2.2.2
+wcwidth==0.2.5
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1718013267051/work

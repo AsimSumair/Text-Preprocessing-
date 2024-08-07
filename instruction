@@ -1,0 +1,33 @@
+Guidelines:
+
+1. Outlining your methodology for solving the problem:
+I took the subsequent actions:
+1.1. I opened Visual Studio 2019 and started a new project.
+1.2. Comprehending the Needs:
+1.3. Take the article text and extract it from the URLs in Input.xlsx.
+1.4. Use text analysis to calculate the variables that are given.
+1.5. Store the results in the Output Data Structure.xlsx structure.
+
+
+2. Context and Requirements:
+2.1. Verify that the required Python libraries, such as Pandas for data management and BeautifulSoup for web scraping, are installed.
+2.2.Extraction of Data:
+input: Input.xlsx, which includes links.
+Results: separate text files with the article's title and text that are named with the URL_ID.
+
+
+3. Textual Examination:
+3.1. Determine different text metrics, like polarity, positive, and negative scores.
+3.2. Output: An Output Data Structure.xlsx-compliant CSV file.
+
+
+
+
+4. How to use the.py file to produce results
+4.1. Using the command "pip install -m requirements.txt" on your local computer or virtual machine, you must first install all dependencies that are contained in the requirements.txt file.
+4.2.If your local system or virtual machine is a virtual machine, you must activate the environment after installing all requirements; if not, there is no need to activate.
+4.3. You must execute the command "python index.py" on a Windows computer or "python3 index.py" in a terminal on a Mac or Linux device after activating the environment.
+4.5. In case you don't understand, I'll provide you with two files: index.py file and index.ipynb file.
+
+Note: Regardless of whether Python supports that version or not, make sure you have installed all dependencies on your system. These dependencies can be used to launch Python 3.12.0.
+
